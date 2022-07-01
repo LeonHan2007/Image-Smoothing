@@ -1,11 +1,11 @@
 $(function(){
-  $("#square_kern").load("demos/square_kern.html");
+  $("#square_kern").load("square_kern.html");
 });
 
 $(function(){
-  $("#double_square").load("demos/double_square.html");
+  $("#double_square").load("double_square.html");
 });
 
 $(function(){
-  $("#circle_kern").load("demos/circle_kern.html");
+  $("#circle_kern").load("circle_kern.html");
 });
